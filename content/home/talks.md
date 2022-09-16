@@ -39,9 +39,6 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
-**髙橋茉優**, 亀田達也. 囚人のジレンマにおける条件付き協力概念の精緻化, [日本心理学会第86回大会](https://confit.atlas.jp/guide/event/jpa2022/top?lang=ja), 東京+オンライン, 2022年9月.
-<br/>
-
 **髙橋茉優**, 黒田起吏, 亀田達也. 格差是正と再分配意思決定に関する実験的検討, [日本心理学会第85回大会](https://confit.atlas.jp/guide/event/jpa2021/top?lang=ja), オンライン, 2021年9月.
 <br/>
 
